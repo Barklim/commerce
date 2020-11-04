@@ -96,6 +96,9 @@ const LoginView: FC<Props> = () => {
             Sign Up
           </a>
         </div>
+        <div>
+          Allo priem, какие проблемы могут быть с локальным разворачиванием версел бигкоммерсе
+        </div>
       </div>
     </form>
   )
